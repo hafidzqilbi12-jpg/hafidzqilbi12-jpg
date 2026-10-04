@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Laravel, database, and backend development**
 
-- 👨‍💻 All of my projects are available at [All of my projects are available on GitHub](All of my projects are available on GitHub)
+- 👨‍💻 All of my projects are available at (All of my projects are available on GitHub)
 
 - 💬 Ask me about **PHP, Laravel, web development & beginner programming**
 
