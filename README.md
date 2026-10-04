@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hafidz Qilbi</h1>
 <h3 align="center">Informatics student | Web Development & Programming</h3>
 
-
 - 🌱 I’m currently learning **PHP, Laravel, MySQL, Dart & Flutter**
 
 - 👯 I’m looking to collaborate on **Beginner-friendly web development projects**
 
 - 🤝 I’m looking for help with **Laravel, database, and backend development**
 
-- 👨‍💻 All of my projects are available at All of my projects are available on GitHub
+- 👨‍💻 All of my projects are available at [All of my projects are available on GitHub](All of my projects are available on GitHub)
 
 - 💬 Ask me about **PHP, Laravel, web development & beginner programming**
 
@@ -18,6 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/hafidz qilbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafidz qilbi" height="30" width="40" /></a>
+<a href="https://instagram.com/hfdzq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hfdzq_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
